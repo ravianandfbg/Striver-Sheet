@@ -1,3 +1,6 @@
+// T.C : O(N^2) 
+// S.C : O(1)
+
 import java.util.*;
 class Solution {
       public List<List<Integer>> generate(int numRows) {
