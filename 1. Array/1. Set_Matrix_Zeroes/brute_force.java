@@ -1,4 +1,5 @@
 // Time : O(N * M) + O(N + M)
+// space : O(1)
 
 class Solution {
       public void setZeroes(int[][] matrix) {
