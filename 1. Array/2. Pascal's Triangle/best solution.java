@@ -1,4 +1,4 @@
-// T.C : O(N^2) 
+// T.C : O(N) 
 // S.C : O(1)
 
 import java.util.*;
