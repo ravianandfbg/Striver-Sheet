@@ -1,3 +1,6 @@
+// time : O(NlogN) + O(N)
+// space : O(N)
+
 class Solution {
       public int[][] merge(int[][] intervals) {
           List<int[]> res= new ArrayList<>();
