@@ -1,3 +1,8 @@
+// time : O(N)
+// space : O(1)
+// Linked List cycle method
+
+
 class Solution {
       public int findDuplicate(int[] nums) {
           int slow = nums[0];
